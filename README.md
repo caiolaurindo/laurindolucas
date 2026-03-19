@@ -63,7 +63,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laurindolucas/laurindolucas/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laurindolucas/laurindolucas/output/pacman-contribution-graph.svg">
 </picture>
-
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=laurindolucas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laurindolucas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 ## 🌐 Onde me Encontrar
 <div align="center">
