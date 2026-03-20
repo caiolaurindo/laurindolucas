@@ -65,8 +65,7 @@
 </picture>
 ---
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laurindolucas&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laurindolucas&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurindolucas&layout=compact)
 
 ---
 ## 🌐 Onde me Encontrar
