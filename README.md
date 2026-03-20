@@ -64,7 +64,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laurindolucas/laurindolucas/output/pacman-contribution-graph.svg">
 </picture>
 ---
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurindolucas&layout=compact)
 
 ---
